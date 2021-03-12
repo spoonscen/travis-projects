@@ -19,4 +19,4 @@ Let's learn bootstrap. You can read about it here https://getbootstrap.com/docs/
 4. All of the elements on this page can be created by copying and pasting from the boostrap docs and removing some elements and modifying some others.
 
 Screenshot of the desired outcome:
-
+![screenshot](https://github.com/spoonscen/travis-projects/blob/main/1-html-bootstrap/index.png)
